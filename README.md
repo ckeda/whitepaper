@@ -1,1 +1,1 @@
-# whitepaper draft v.1.0
+# whitepaper draft v.1.2S
